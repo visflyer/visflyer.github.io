@@ -11,9 +11,9 @@ title                    : "Y.Y.Wang's Home Page"
 title_separator          : "-"
 name                     : &name "Yuyang Wang"
 description              : &description "「少年は言いたいことがあった」"
-url                      : https://yywang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://visflyer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yywang.github.io"
+repository               : "visflyer.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
