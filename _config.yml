@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuyang Wang(王宇扬)'s Home Page"
+title                    : "Yuyang Wang's Home Page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
