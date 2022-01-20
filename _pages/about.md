@@ -12,7 +12,9 @@ This is Yuyang Wang(王宇扬)'s home page.
 
 Biography
 ======
-Currently I am a first year M.Sc. student of [Department of Computer Science and Technology] in Nanjing University.
+Currently I am a first year M.Sc. student of [Department of Computer Science and Technology](https://cs.nju.edu.cn/) in Nanjing University.
+
+I received my B.Sc. degree from Department of Mathematics, Nanjing University in June 2021. In the same year, I was admitted to study for a M.Sc degree in Nanjing University under the supervision of Prof. Bing Mao.
 
 Getting started
 ======
