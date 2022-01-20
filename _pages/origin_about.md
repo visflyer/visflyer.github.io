@@ -1,12 +1,12 @@
----
-permalink: /
-title: "Y.Y.Wang's Home Page"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+#---
+#permalink: /
+#title: "Y.Y.Wang's Home Page"
+#excerpt: "About me"
+#author_profile: true
+#redirect_from: 
+#  - /about/
+#  - /about.html
+#---
 
 This is Yuyang Wang(王宇扬)'s home page.
 
@@ -20,7 +20,7 @@ Research Interests
 ------
 My research interests include software security and machine learning. Especially in AI for binaries. 
 
-updating
+updating test
 ------
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
