@@ -11,13 +11,17 @@ redirect_from:
 This is Yuyang Wang(王宇扬)'s home page.
 
 Biography
-======
-Currently I am a first year M.Sc. student of [Department of Computer Science and Technology](https://cs.nju.edu.cn/) in Nanjing University.
+------
+Currently I am a first year M.Sc. student of [Department of Computer Science and Technology](https://cs.nju.edu.cn/) in Nanjing University. 
 
-I received my B.Sc. degree from Department of Mathematics, Nanjing University in June 2021. In the same year, I was admitted to study for a M.Sc degree in Nanjing University under the supervision of Prof. Bing Mao.
+I received my B.Sc. degree from [Department of Mathematics](https://math.nju.edu.cn/), Nanjing University in June 2021. In the same year, I was admitted to study for a M.Sc degree in Nanjing University under the supervision of Prof. Bing Mao(https://cs.nju.edu.cn/58/1f/c2639a153631/page.htm). 
 
-Getting started
-======
+Research Interests
+------
+My research interests include software security and machine learning. Especially in AI for binaries. 
+
+updating
+------
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
