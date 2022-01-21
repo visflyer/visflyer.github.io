@@ -20,4 +20,4 @@ Research Interests
 ------
 My research interests include software security and machine learning. Rencently I am interested in ML based binary applications. 
 
-<font face="fantasy">我是fantasy字</font>
+<font size="2"><font face="Optima">Updated on Jan. 21st, 2022</font><br />
