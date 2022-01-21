@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Yuyang Wang(王宇扬)'s home page.
+Welcome to Yuyang Wang(王宇扬)'s home page! 
 
 Biography
 ------
@@ -18,4 +18,6 @@ I received my B.Sc. degree from [Department of Mathematics](https://math.nju.edu
 
 Research Interests
 ------
-My research interests include software security and machine learning. Especially in AI for binaries. 
+My research interests include software security and machine learning. Rencently I am interested in ML based binary applications. 
+
+<font face="fantasy">我是fantasy字</font>
