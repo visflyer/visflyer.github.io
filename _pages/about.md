@@ -18,6 +18,6 @@ I received my B.Sc. degree from [Department of Mathematics](https://math.nju.edu
 
 Research Interests
 ------
-My research interests include software security and machine learning. Rencently I am interested in ML based binary applications. 
+My research interests include software security and machine learning. Recently I am interested in ML based binary applications. 
 
 <font size="2">Updated on Jan. 21st, 2022</font><br />
