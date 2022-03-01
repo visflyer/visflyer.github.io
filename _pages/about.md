@@ -14,7 +14,7 @@ Biography
 ------
 Currently I am a first year M.Sc. student of [Department of Computer Science and Technology](https://cs.nju.edu.cn/) in Nanjing University. 
 
-I received my B.Sc. degree from [Department of Mathematics](https://math.nju.edu.cn/), Nanjing University in June 2021. In the same year, I was admitted to study for a M.Eng degree in Nanjing University under the supervision of [Prof. Bing Mao](https://cs.nju.edu.cn/58/1f/c2639a153631/page.htm). 
+I received my B.Sc. degree from [Department of Mathematics](https://math.nju.edu.cn/), Nanjing University in June 2021. In the same year, I was admitted to study for a M.Sc degree in Nanjing University under the supervision of [Prof. Bing Mao](https://cs.nju.edu.cn/58/1f/c2639a153631/page.htm). 
 
 Research Interests
 ------
