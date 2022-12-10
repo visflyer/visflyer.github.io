@@ -20,4 +20,8 @@ Research Interests
 ------
 My research interests include software security and machine learning. Recently I am interested in ML based binary applications. 
 
-<font size="2">Updated on Feb. 26th, 2022</font><br />
+Publications
+------
+\[1\] Yi Qian, Ligeng Chen, **Yuyang Wang**, and Bing Mao. Nimbus: Toward Speed Up Function Signature Recovery via Input Resizing and Multi-Task Learning. In *The 22nd IEEE International Conference on Software Quality, Reliability, and Security*, to appear  
+
+<font size="2">Updated on Dec. 10th, 2022</font><br />
