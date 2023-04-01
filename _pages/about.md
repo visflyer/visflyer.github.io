@@ -22,6 +22,6 @@ My research interests include software security and machine learning. Recently I
 
 Publications
 ------
-\[1\] Yi Qian, Ligeng Chen, **Yuyang Wang**, and Bing Mao. Nimbus: Toward Speed Up Function Signature Recovery via Input Resizing and Multi-Task Learning. In *The 22nd IEEE International Conference on Software Quality, Reliability, and Security*, to appear  
+\[1\]  Yi Qian, Ligeng Chen, Yuyang Wang, and Bing Mao. Nimbus: Toward speed up function signature recovery via input resizing and multi-task learning. In 2022 IEEE 22nd International Conference on Software Quality, Reliability and Security (QRS), pages 454–463, 2022. \[[link](https://ieeexplore.ieee.org/document/10062452)\]
 
 <font size="2">Updated on Dec. 10th, 2022</font><br />
